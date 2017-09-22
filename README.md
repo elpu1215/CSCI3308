@@ -1,5 +1,5 @@
 # CSCI3308
 Ellie Puls
-Partner: Justin Cai text conflict 
+Partner: Justin Cai
 Lab 3
 
